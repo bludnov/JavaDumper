@@ -1,1 +1,1 @@
-kanekiken.exe (MAC-айди вашего ютюга, перед айдишником укажите -) java/dumper/DUMPER.bmp
+kanekiken.exe (MAC-айди вашего утюга, перед айдишником укажите -) java/dumper/DUMPER.bmp
